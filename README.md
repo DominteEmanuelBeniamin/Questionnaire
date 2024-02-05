@@ -13,3 +13,5 @@ Bible Questionnaire is a mobile application designed to provide users with an in
 ## Technologies Used
 - **Flutter:** For building a cross-platform mobile application with a native-like performance and feel.
 - **Dart:** As the programming language to develop the application logic and UI.
+
+![Screenshot of Bible Questionnaire](assets/images/screenshot(1).jpg "Bible Questionnaire App Screenshot")
