@@ -15,3 +15,5 @@ Bible Questionnaire is a mobile application designed to provide users with an in
 - **Dart:** As the programming language to develop the application logic and UI.
 
 ![Screenshot of Bible Questionnaire](assets/images/FirstPage.jpeg "Bible Questionnaire App Screenshot")
+![Screenshot of Bible Questionnaire](assets/images/Difficulty.jpeg "Bible Questionnaire App Screenshot")
+![Screenshot of Bible Questionnaire](assets/images/Question.jpeg "Bible Questionnaire App Screenshot")
